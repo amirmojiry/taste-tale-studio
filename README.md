@@ -4,6 +4,8 @@ A bespoke, English-language cooking portfolio for Hanieh in Vaasa, Finland.
 
 **Website:** https://amirmojiry.github.io/taste-tale-studio/
 
+![Taste Tale Studio homepage](docs/taste-tale-home-preview.jpg)
+
 ## A small, fast site
 
 Original HTML, CSS and vanilla JavaScript. No site template, framework, animation library, package dependency, third-party embed, tracker or cookie. Photography and the original Taste Tale Studio logo are supplied by the owner. Fonts are served from the same origin, with their open-source licenses included.

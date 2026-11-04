@@ -1,0 +1,523 @@
+{
+  "version": 1,
+  "note": "Mechanically resized and encoded from the supplied photographs. No crop or visual retouching. Source metadata omitted. Filename widths are target widths; actual dimensions are recorded for every output.",
+  "photos": {
+    "butterfly-cake": {
+      "source": "image(20261104-210928).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 1429815,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "butterfly-cake-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 20286,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "butterfly-cake-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 66100,
+          "format": "webp"
+        }
+      ]
+    },
+    "pomegranate-pasta": {
+      "source": "image(20261104-210930).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 2658102,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "pomegranate-pasta-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 60940,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "pomegranate-pasta-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 207282,
+          "format": "webp"
+        }
+      ]
+    },
+    "mini-burgers": {
+      "source": "image(20261104-210937-1).png",
+      "sourceWidth": 720,
+      "sourceHeight": 1280,
+      "sourceBytes": 1623855,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "mini-burgers-480.webp",
+          "width": 480,
+          "height": 853,
+          "bytes": 39072,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "mini-burgers-960.webp",
+          "width": 720,
+          "height": 1280,
+          "bytes": 86482,
+          "format": "webp"
+        }
+      ]
+    },
+    "chocolate-cake": {
+      "source": "image(20261104-210937).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 1673765,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "chocolate-cake-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 20238,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "chocolate-cake-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 79236,
+          "format": "webp"
+        }
+      ]
+    },
+    "shared-table": {
+      "source": "image(20261104-210939).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 2265484,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "shared-table-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 45352,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "shared-table-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 168780,
+          "format": "webp"
+        }
+      ]
+    },
+    "football-cake": {
+      "source": "image(20261104-210944).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 2020419,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "football-cake-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 34750,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "football-cake-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 128720,
+          "format": "webp"
+        }
+      ]
+    },
+    "berry-tart": {
+      "source": "image(20261104-210949).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 2302377,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "berry-tart-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 49034,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "berry-tart-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 168570,
+          "format": "webp"
+        }
+      ]
+    },
+    "saffron-rice": {
+      "source": "image(20261104-210950).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 1594424,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "saffron-rice-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 22560,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "saffron-rice-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 97634,
+          "format": "webp"
+        }
+      ]
+    },
+    "raspberry-cake": {
+      "source": "image(20261104-210950-1).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 984192,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "raspberry-cake-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 12936,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "raspberry-cake-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 41146,
+          "format": "webp"
+        }
+      ]
+    },
+    "balloon-cake": {
+      "source": "image(20261104-210956).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 1577403,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "balloon-cake-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 14446,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "balloon-cake-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 54220,
+          "format": "webp"
+        }
+      ]
+    },
+    "floral-cake": {
+      "source": "image(20261104-211000).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 1700698,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "floral-cake-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 17578,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "floral-cake-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 85660,
+          "format": "webp"
+        }
+      ]
+    },
+    "berry-butter": {
+      "source": "image(20261104-211014).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 952367,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "berry-butter-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 17868,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "berry-butter-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 62102,
+          "format": "webp"
+        }
+      ]
+    },
+    "honey-butter": {
+      "source": "image(20261104-211016).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 1953142,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "honey-butter-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 33216,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "honey-butter-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 136598,
+          "format": "webp"
+        }
+      ]
+    },
+    "floral-butter": {
+      "source": "image(20261104-211017).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 891148,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "floral-butter-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 14336,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "floral-butter-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 50386,
+          "format": "webp"
+        }
+      ]
+    },
+    "pumpkin-butter": {
+      "source": "image(20261104-211021).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 908848,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "pumpkin-butter-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 14348,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "pumpkin-butter-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 53852,
+          "format": "webp"
+        }
+      ]
+    },
+    "feta-olive-butter": {
+      "source": "image(20261104-211031).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 1936146,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "feta-olive-butter-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 28842,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "feta-olive-butter-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 122652,
+          "format": "webp"
+        }
+      ]
+    },
+    "tomato-garlic-butter": {
+      "source": "image(20261104-211033).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 1989077,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "tomato-garlic-butter-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 30608,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "tomato-garlic-butter-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 130110,
+          "format": "webp"
+        }
+      ]
+    },
+    "scallion-butter": {
+      "source": "image(20261104-211031-1).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 1891088,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "scallion-butter-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 27342,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "scallion-butter-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 116358,
+          "format": "webp"
+        }
+      ]
+    },
+    "persian-tasting-plate": {
+      "source": "image(20261104-211045).png",
+      "sourceWidth": 960,
+      "sourceHeight": 1280,
+      "sourceBytes": 1664485,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 76,
+          "file": "persian-tasting-plate-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 25870,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 960,
+          "quality": 82,
+          "file": "persian-tasting-plate-960.webp",
+          "width": 960,
+          "height": 1280,
+          "bytes": 84722,
+          "format": "webp"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "source": "2026-10-29 21.33.41(3).jpg",
+    "file": "logo.webp",
+    "width": 400,
+    "height": 400,
+    "bytes": 13734,
+    "format": "webp"
+  },
+  "favicon": {
+    "source": "2026-10-29 21.33.41(3).jpg",
+    "file": "favicon.png",
+    "width": 96,
+    "height": 96,
+    "bytes": 10390,
+    "format": "png"
+  },
+  "totals": {
+    "photoCount": 19,
+    "responsivePhotoFiles": 38,
+    "sourcePhotoBytes": 32016835,
+    "responsivePhotoBytes": 2470232,
+    "logoAndFaviconBytes": 24124
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "taste-tale-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small, bespoke kitchen portfolio for Hanieh in Vaasa.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node --check script.js && node scripts/check.mjs"
+  },
+  "engines": {"node": ">=20"}
+}
