@@ -495,6 +495,32 @@
           "format": "webp"
         }
       ]
+    },
+    "hanieh-at-the-table": {
+      "source": "image(20261105-103034).png",
+      "sourceWidth": 720,
+      "sourceHeight": 1280,
+      "sourceBytes": 1578984,
+      "variants": [
+        {
+          "targetWidth": 480,
+          "quality": 80,
+          "file": "hanieh-at-the-table-480.webp",
+          "width": 480,
+          "height": 853,
+          "bytes": 58306,
+          "format": "webp"
+        },
+        {
+          "targetWidth": 720,
+          "quality": 84,
+          "file": "hanieh-at-the-table-720.webp",
+          "width": 720,
+          "height": 1280,
+          "bytes": 122906,
+          "format": "webp"
+        }
+      ]
     }
   },
   "logo": {
@@ -514,10 +540,10 @@
     "format": "png"
   },
   "totals": {
-    "photoCount": 19,
-    "responsivePhotoFiles": 38,
-    "sourcePhotoBytes": 32016835,
-    "responsivePhotoBytes": 2470232,
+    "photoCount": 20,
+    "responsivePhotoFiles": 40,
+    "sourcePhotoBytes": 33595819,
+    "responsivePhotoBytes": 2651444,
     "logoAndFaviconBytes": 24124
   }
 }

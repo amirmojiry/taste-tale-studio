@@ -10,7 +10,7 @@ A bespoke, English-language cooking portfolio for Hanieh in Vaasa, Finland.
 
 Original HTML, CSS and vanilla JavaScript. No site template, framework, animation library, package dependency, third-party embed, tracker or cookie. Photography and the original Taste Tale Studio logo are supplied by the owner. Fonts are served from the same origin, with their open-source licenses included.
 
-The site includes a responsive editorial introduction, all 19 supplied photographs, three gallery categories, keyboard-accessible photo viewing, mobile swipe navigation, Hanieh’s story, and the supplied Instagram and YouTube links. Motion respects the visitor’s reduced-motion preference. Content and direct image links remain usable without JavaScript.
+The site includes a responsive editorial introduction with Hanieh’s portrait, all 19 supplied food photographs, three gallery categories, keyboard-accessible photo viewing, mobile swipe navigation, Hanieh’s story, and the supplied Instagram and YouTube links. Motion respects the visitor’s reduced-motion preference. Content and direct image links remain usable without JavaScript.
 
 ## Run locally
 
@@ -47,7 +47,7 @@ All asset paths are relative so the project works at `/taste-tale-studio/`. The 
 - **Photography:** add responsive WebP images in `assets/images/` and record the actual dimensions in `assets/images/manifest.json`. The burger photo’s largest source is 720 px wide, although its target-width filename ends in `-960.webp`; its HTML correctly declares `720w`.
 - **Fonts:** source information and full licenses are in `assets/fonts/`. A reproducible subset helper is in `scripts/fonts/`.
 
-Photographs are not retouched or cropped in the asset files. CSS frames crop only the thumbnails; the photo viewer shows each complete photograph. Image metadata is removed from the distributed files.
+Photographs are not retouched or cropped in the asset files. CSS frames crop the hero portrait and gallery thumbnails; the photo viewer shows each complete gallery photograph. The hero portrait has a top-biased focal point to keep Hanieh’s face and celebration cake visible across screen sizes, with 480 px and 720 px WebP versions and high loading priority. Image metadata is removed from the distributed files.
 
 ## Interaction details
 
